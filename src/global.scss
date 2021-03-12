@@ -24,3 +24,24 @@
 @import "~@ionic/angular/css/text-alignment.css";
 @import "~@ionic/angular/css/text-transformation.css";
 @import "~@ionic/angular/css/flex-utils.css";
+
+
+:root {
+  /* Set the background of the entire app */
+  --ion-background-color: #000;
+
+  /* Set the font family of the entire app */
+  --ion-text-color: #fff;
+}
+
+.transparent-modal {
+  --background: #0000005c;
+ 
+  .modal-wrapper {
+    backdrop-filter: blur(12px);
+  }
+ 
+  ion-content {
+    --background: transparent;
+  }
+}

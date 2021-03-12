@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Netflix UI</string>
+    <string name="title_activity_main">Netflix UI</string>
+    <string name="package_name">com.nextflix.jay</string>
+    <string name="custom_url_scheme">com.nextflix.jay</string>
+</resources>
