@@ -1,6 +1,6 @@
 # Nextflix App UI using Ionic
 
-Download and give a try - https://shorturl.at/zBUVZ
+Download and give a try - https://bit.ly/3lcGuzr
 
 Build a Netflix App using Ionic components, Modal, Services.  
 
